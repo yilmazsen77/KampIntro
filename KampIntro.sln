@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{E9CCE116-A023-47EC-A1E1-3238E6086EB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{34B21B2C-0772-441C-8CD6-B09BD8C712A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{34B21B2C-0772-441C-8CD6-B09BD8C712A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{E7CA3F65-429D-4792-80D3-B8D1F9F5AF49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{E7CA3F65-429D-4792-80D3-B8D1F9F5AF49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{5FAB349F-90CD-4B1E-9FA3-1CD2249CB047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{5FAB349F-90CD-4B1E-9FA3-1CD2249CB047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{6C5FB93B-7EBA-4ADC-882A-B353CA83A8B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5FAB349F-90CD-4B1E-9FA3-1CD2249CB047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FAB349F-90CD-4B1E-9FA3-1CD2249CB047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FAB349F-90CD-4B1E-9FA3-1CD2249CB047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5FB93B-7EBA-4ADC-882A-B353CA83A8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5FB93B-7EBA-4ADC-882A-B353CA83A8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5FB93B-7EBA-4ADC-882A-B353CA83A8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5FB93B-7EBA-4ADC-882A-B353CA83A8B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
